@@ -23,6 +23,7 @@ public class Bank {
         LastAccount++;
         return account;
 
+
     }
 
     public void insertAccount(Account account) {
@@ -35,6 +36,7 @@ public class Bank {
             total += balance;
         }
         System.out.println("Total Balance: " + total);
+        System.out.println("Obrigado por escolher nosso banco: " + ag);
         {
 
         }
