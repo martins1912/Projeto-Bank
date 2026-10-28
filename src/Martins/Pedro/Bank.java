@@ -37,6 +37,7 @@ public class Bank {
         }
         System.out.println("Total Balance: " + total);
         System.out.println("Obrigado por escolher nosso banco: " + ag);
+
         {
 
         }

@@ -51,6 +51,7 @@ public class Account {
         return true;
 
 
+
     }
     public double getBalance() {
         return balance;
@@ -60,6 +61,7 @@ public class Account {
     public String toString() {
         String result = "A conta" + this.name + " " + this.ag + " " + this.cc + " possui: R$" + this.balance;
         return result;
+
 
     }
 

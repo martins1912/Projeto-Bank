@@ -68,6 +68,8 @@ public class App {
                 break; // volta para o menu principal
             } else {
                 System.out.println("comando invalido");
+
+                System.out.println("Valor invalido");
             }
         }
     }
